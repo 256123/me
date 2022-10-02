@@ -663,10 +663,6 @@ h1 {
     background-color: #fff;
 }
 
-.food .right {
-    float: right;
-    background-color: #fff;
-}
 
 .food .left p {
     padding: 25px 0 15px;
@@ -687,7 +683,7 @@ h1 {
 
 .food .right {
     float: left;
-
+    background-color: #fff;
 }
 
 .food .right dl {

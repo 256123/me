@@ -687,7 +687,7 @@ h1 {
 }
 
 .food .right dl {
-    
+    float: left;
     margin-left: 161px;
 }
 

@@ -655,12 +655,12 @@ h1 {
     padding-top: 35px;
     margin-top: 40px;
     height: 417px;
-    background-color: #fff;
+    
 }
 
 .food .left {
     float: left;
-    background-color: #fff;
+    
 }
 
 
@@ -683,7 +683,7 @@ h1 {
 
 .food .right {
     float: right;
-    background-color: #fff;
+    
 }
 
 .food .right dl {

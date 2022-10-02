@@ -660,10 +660,12 @@ h1 {
 
 .food .left {
     float: left;
+    background-color: #fff;
 }
 
 .food .right {
     float: right;
+    background-color: #fff;
 }
 
 .food .left p {
